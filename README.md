@@ -1,14 +1,13 @@
-# blinky-bus-tray
+# nXDS-backing-pump-tray
 ## need to add .env file with the following
-MQTTSUBSCRIBE=blinky-lite-v4/blinky-bus/01/setting/#  
-MQTTCLIENTID=blinky-bus-tray-01  
+MQTTSUBSCRIBE=mirrotron/nXDS-backing-pump/01/setting/#  
+MQTTCLIENTID=mirrotron-nXDS-backing-pump-tray-01  
 MQTTSERVERIP=something.cloudmqtt.com  
-MQTTUSERNAME=xxxx  
-MQTTPASSWORD=yyyy  
-SERIALPORT=/dev/ttyACM3  
-SERIALBUFSIZE=8  
-PM2NAME=blinky-bus  
-NODEREDCONFIGSECRET=a-secret-key    
+MQTTUSERNAME=xxx  
+MQTTPASSWORD=xxx  
+SERIALPORT=/dev/ttyUSB0  
+PM2NAME=mirrotron-nXDS-backing-pump-01  
+NODEREDCONFIGSECRET=xxx  
+  
 
-with no CR after the last line
 
