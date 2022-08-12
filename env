@@ -1,0 +1,9 @@
+MQTTSUBSCRIBE=mirrotron/nXDS-backing-pump/01/setting/#
+MQTTCLIENTID=mirrotron-nXDS-backing-pump-tray-01
+MQTTSERVERIP=xxx
+MQTTUSERNAME=yyy
+MQTTPASSWORD=zzz
+SERIALPORT=/dev/ttyUSB0
+PM2NAME=mirrotron-nXDS-backing-pump-01
+NODEREDCONFIGSECRET=aaa
+
