@@ -21,7 +21,7 @@
         "time": 0
       }
     },
-    "value": 0
+    "value": 29432
   },
   "status": {
     "action": "reading",
@@ -41,7 +41,7 @@
         "time": 0
       }
     },
-    "value": 0
+    "value": 1
   },
   "speed": {
     "action": "reading",
@@ -61,7 +61,7 @@
         "time": 0
       }
     },
-    "value": 0
+    "value": 30
   },
   "pumpTemp": {
     "action": "reading",
@@ -88,7 +88,7 @@
     "type": "scalar",
     "unit": "W",
     "alarm": {
-      "value": 3,
+      "value": 0,
       "limits": {
         "lolo": 150,
         "low": 200,
@@ -101,7 +101,7 @@
         "time": 0
       }
     },
-    "value": 0
+    "value": 226.5
   },
   "hours": {
     "action": "reading",
@@ -121,7 +121,7 @@
         "time": 0
       }
     },
-    "value": 1167
+    "value": 15267
   },
   "cycles": {
     "action": "reading",
@@ -141,7 +141,7 @@
         "time": 0
       }
     },
-    "value": 71
+    "value": 82
   },
   "pumpOn": {
     "action": "setting",
@@ -166,10 +166,10 @@
   "permit": {
     "action": "reading",
     "type": "scalar",
-    "value": 0,
+    "value": 1,
     "unit": "",
     "alarm": {
-      "value": 3,
+      "value": 0,
       "limits": {
         "lolo": 0,
         "low": 0,
