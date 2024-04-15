@@ -1,7 +1,7 @@
 # Backing Pump System
 * <a href="https://github.com/bl-mirrotron/nXDS-backing-pump-tray" target="_blank">Source code</a>
-* [Vacuum system overview](https://docs.bl-mirrotron.com/#vacuum-system)
-* [Control system overview](https://docs.bl-mirrotron.com/)
+* [Vacuum system overview](https://bl-mirrotron.github.io/#vacuum-system)
+* [Control system overview](https://bl-mirrotron.github.io/)
 
 The exhaust of each turbo pump is pumped with an <a href="https://shop.edwardsvacuum.com/products/a73701983/view.aspx" target="_blank">Edwards nXDS15i</a> dry pump used as a backing pump as shown in Figure 1. The backing pump has a 15 pin logic connection as shown in Figure 2. The logic interface can be configured to communicate with a RS232 connection as shown in Figure 3. This RS232 interface can then be transformed into a USB interface with a <a href="https://www.electrokit.com/en/product/usb-rs232-converter-for-pc/" target="_blank">USB-RS232 converter</a> and then connected to a Raspberry Pi computer as shown in Figure 4.
 
